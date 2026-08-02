@@ -1,1 +1,10 @@
 
+[
+  {
+    "id": "weather",
+    "name": "Погода",
+    "icon": "fa-cloud-sun",
+    "description": "Прогноз погоды по названию города",
+    "file": "weather/index.html"
+  }
+]
